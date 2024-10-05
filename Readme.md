@@ -16,7 +16,7 @@ Cuando el teléfono está conectado a la red WiFi, cada botón de la interfaz en
 
 ## Complemento al Proyecto ESP32
 
-Este proyecto es el complemento al [proyecto ESP32 en GitHub](https://github.com/xestoso11/esp32/blob/main/emisor_infrarojos/emisor_infrarojos.ino) donde el **ESP32** actúa como un **mando a distancia universal**. El ESP32 está configurado para recibir las peticiones HTTP enviadas desde la aplicación del teléfono, y luego las convierte en señales **infrarrojas** que se envían a los dispositivos controlados, como televisores o sistemas de audio.
+Este proyecto es el complemento al [proyecto ESP32 en GitHub](https://github.com/xestoso11/Emisor_infrarojos) donde el **ESP32** actúa como un **mando a distancia universal**. El ESP32 está configurado para recibir las peticiones HTTP enviadas desde la aplicación del teléfono, y luego las convierte en señales **infrarrojas** que se envían a los dispositivos controlados, como televisores o sistemas de audio.
 
 La configuración y el código para el ESP32 se pueden encontrar en el repositorio mencionado anteriormente.
 
@@ -44,4 +44,4 @@ La configuración y el código para el ESP32 se pueden encontrar en el repositor
 
 Este proyecto es ideal para aquellos que desean controlar sus dispositivos mediante infrarrojos, pero prefieren usar su teléfono y la red WiFi en lugar de un mando tradicional.
 
-**Contribuciones** y sugerencias son bienvenidas. Para más información sobre el ESP32 y su configuración, visita el repositorio complementario [aquí](https://github.com/xestoso11/esp32/blob/main/emisor_infrarojos/emisor_infrarojos.ino).
+**Contribuciones** y sugerencias son bienvenidas. Para más información sobre el ESP32 y su configuración, visita el repositorio complementario [aquí](https://github.com/xestoso11/Emisor_infrarojos).
